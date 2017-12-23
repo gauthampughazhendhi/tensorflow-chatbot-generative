@@ -1,8 +1,1 @@
-# ChatBot Database #
-####################
-2015-01.db
-
-# Training and testing files #
-##############################
-*.from
-*.to
+model/
