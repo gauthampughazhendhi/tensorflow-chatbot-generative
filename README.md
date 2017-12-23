@@ -4,6 +4,7 @@ A simple Generative Model based chatbot built with Tensorflow on top of Google's
 
 Before starting ensure that you dependencies in the requirements.txt installed which can be done by the following command,
 
+
 pip install -r requirements.txt
 
 Python 3.6 is advisable for all platforms especially windows as Python 3.5 faced some in-built issues while training the model which was fixed in Python 3.6. Tensorflow 1.4 is mandatory for NMT model which is advanced form of Google's deprecated seq2seq model. By default this installs the GPU version of Tensorflow 1.4, but if you wish you could also install the CPU version.
