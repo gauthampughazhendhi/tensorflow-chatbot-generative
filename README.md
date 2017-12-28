@@ -9,6 +9,7 @@ pip install -r requirements.txt
 Python 3.6 is advisable for all platforms especially windows as Python 3.5 faced some in-built issues while training the model which was fixed in Python 3.6. Tensorflow 1.4 is mandatory for NMT model which is advanced form of Google's deprecated seq2seq model. By default this installs the GPU version of Tensorflow 1.4, but if you wish you could also install the CPU version.
 
 Download the model resources "model.zip" from the following link.
+https://drive.google.com/open?id=1PEjLwYdxCq324h31W7aeinLPjVgX1rqz
 
 
 Place the extracted model directory in the root directory and modify the paths to resources in the hparams and checkpoint files under model directory such as, 
