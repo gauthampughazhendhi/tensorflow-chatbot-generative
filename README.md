@@ -1,6 +1,6 @@
-# Tensorflow Chatbot
+# Generative model-based Chatbot
 
-A simple Generative Model based chatbot built with Tensorflow on top of Google's Neural Machine Translation model. This chatbot model which was trained on 3.64 Million pairs of conversations from reddit corpus.
+A simple generative model-based chatbot built with Tensorflow on top of Google's Neural Machine Translation model. This chatbot model which was trained on 3.64 Million pairs of conversations from reddit corpus.
 
 Before starting ensure that you dependencies in the requirements.txt installed which can be done by the following command,
 
